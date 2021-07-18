@@ -17,13 +17,9 @@
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
-<p align="center">
 <!-- Actual text -->
-
 - ✉️: katchyemma@gmail.com
 - 🌐: still working on it ...
-
-</p>
   
 <Br>
 <hr>
@@ -41,8 +37,8 @@
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA)                                                 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA)                                                 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA)                    
+|![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA)|
+|![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA) |                                               |![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA)|                                               |![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA) |                   
                                                                                                                       
 <Br>
 <hr>
