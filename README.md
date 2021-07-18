@@ -25,7 +25,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/WLO1O.png (LinkedIn icon without padding)
+[2.2]: <blockquote class="imgur-embed-pub" lang="en" data-id="a/WLO1O"  ><a href="//imgur.com/a/WLO1O">Linkedin Icon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
