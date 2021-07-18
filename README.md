@@ -70,7 +70,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <h1>Certifications! 🏆</h1>
 <Br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeTek)](https://github.com/zuri-training/MediAid-backend-pjt-50)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeTek)](https://github.com/TobeTek/TobeTek)
 
 ## &#x1f4c8; GitHub Stats
 
