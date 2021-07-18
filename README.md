@@ -72,10 +72,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TobeTek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Emmanuel's GitHub Stats" />
 </a>
 
-<a href="https://github.com/TobeTek/MediAid-backend-pjt-50">
+<a href="https://github.com/TobeTek/personal_pros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobeTek&repo=personal_pros&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<a href="https://github.com/zuri-training/MediAid-backend-pjt-50">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zuri-training&repo=MediAid-backend-pjt-50&&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
   <Br>
 <hr>
 <Br>
