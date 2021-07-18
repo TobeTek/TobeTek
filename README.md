@@ -75,25 +75,14 @@
 <a href="https://github.com/TobeTek/personal_pros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobeTek&repo=personal_pros&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/zuri-training/MediAid-backend-pjt-50">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zuri-training&repo=MediAid-backend-pjt-50&&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/TobeTek/Zuri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobeTek&repo=Zuri&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   <Br>
 <hr>
 <Br>
 
-<hr>
-<Br>
-<h1>A Little Joke at the End! 🤣</h1>
-<Br>
-  
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
-  
-  
-  
-<Br>
-<hr>
-<Br>
+
 <h1>Thank You! 🤵 </h1>
 <Br>
 
