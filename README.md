@@ -42,7 +42,8 @@
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
-
+|---|---|---|---|---|
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA)
 <Br>
 <hr>
 <Br>
@@ -69,7 +70,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[!<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=TobeTek&theme=dark" />
+[!<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeTek&theme=dark" />
 
  
 <Br>
