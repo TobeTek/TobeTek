@@ -9,7 +9,7 @@
 - 🏫: I'm a Student.
 - 🔭: I’m currently working on many small Automation and ML projects.
 - 🌱: I’m currently learning Django and Micro-Services. 🧠💻🌐
-- 🤝🏽: I’m open to help with anything I am currently working on!
+- 🤝: I’m open to help with anything I am currently working on!
 - 💬: Ask me about Web Services, RESTful APIs, Data Warehousing, Deployment, and Automation programs. 📡📈🤖🧠
 - ⚡  Fun fact: I play Chess, Tennis and the Piano! ♟️🎾🎹
   
@@ -49,12 +49,12 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TobeTek&repo=MediAid-backend-pjt-50)](https://github.com/TobeTek/MediAid-backend-pjt-50)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TobeTek&repo=MediAid-backend-PJT-50)](https://github.com/TobeTek/MediAid-backend-pjt-50)]
 
 <Br>
 <hr>
 <Br>
-<h1>Certifications! 🏆</h1>
+<!-- <h1>Certifications! 🏆</h1>
 <Br>
   
 |[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
@@ -62,14 +62,14 @@
 |[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
   
  
-
+ -->
 <Br>
 <hr>
 <Br>
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[!<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[!<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=TobeTek&theme=dark" />
 
  
 <Br>
@@ -90,5 +90,5 @@
 
 ------
   
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
+<!--Thanks @ Arygam(https://github.com/Aryagm) -->
+
