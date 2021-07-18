@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/TobeTek">Emmanuel Katchy<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/TobeTek">Tobe<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -70,7 +70,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <h1>Certifications! 🏆</h1>
 <Br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeTek)](https://github.com/TobeTek/TobeTek)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeTek&count_private=true)](https://github.com/TobeTek/TobeTek)
 
 ## &#x1f4c8; GitHub Stats
 
