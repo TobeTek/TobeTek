@@ -5,11 +5,11 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a Student.
-- 🔭: I’m currently working on many small Automation and ML projects.
-- 🌱: I’m currently learning Django and Micro-Services. 🧠💻🌐
-- 🤝: I’m open to help with anything I am currently working on!
-- 💬: Ask me about Web Services, RESTful APIs, Data Warehousing, Deployment, and Automation programs. 📡📈🤖🧠
+- 🏫 I'm a Student.
+- 🔭 I’m currently working on many small Automation and ML projects.
+- 🌱 I’m currently learning Django and Micro-Services. 🧠💻🌐
+- 🤝 I’m open to help with anything I am currently working on!
+- 💬 Ask me about Web Services, RESTful APIs, Data Warehousing, Deployment, and Automation programs. 📡📈🤖🧠
 - ⚡  Fun fact: I play Chess, Tennis and the Piano! ♟️🎾🎹
   
 
@@ -19,8 +19,8 @@
 <!-- Actual text -->
 <p align='center'>
 
-- ✉️: katchyemma@gmail.com
-- 🌐: still working on it ...
+- ✉️ katchyemma@gmail.com
+- 🌐 still working on it ...
 
 <p>
 <Br>
