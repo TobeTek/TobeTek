@@ -5,9 +5,9 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫 I'm a Freelancer.
+- 💰 I'm a Freelancer.
 - 🔭 I’m currently working on many AI and ML projects.
-- 🌱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
+- 🧱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
 - 🤝 I’m open to work/help with anythin Python!
 - 💬 Ask me about Containerization & Virtualization, Data Warehousing and Analytics, System Design & Optimization, and Automation programs. 📡📈🤖🧠
 - ⚡  Fun fact: I play Chess, Tennis and the Piano! ♟️🎾🎹
