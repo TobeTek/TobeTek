@@ -5,11 +5,11 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫 I'm a Student.
-- 🔭 I’m currently working on many small Automation and ML projects.
-- 🌱 I’m currently learning Django and Micro-Services. 🧠💻🌐
-- 🤝 I’m open to help with anything I am currently working on!
-- 💬 Ask me about Web Services, RESTful APIs, Data Warehousing, Deployment, and Automation programs. 📡📈🤖🧠
+- 🏫 I'm a Freelancer.
+- 🔭 I’m currently working on many AI and ML projects.
+- 🌱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
+- 🤝 I’m open to work/help with anythin Python!
+- 💬 Ask me about Containerization & Virtualization, Data Warehousing and Analytics, System Design & Optimization, and Automation programs. 📡📈🤖🧠
 - ⚡  Fun fact: I play Chess, Tennis and the Piano! ♟️🎾🎹
   
 
@@ -20,7 +20,7 @@
 <p align='center'>
 
 - ✉️ katchyemma@gmail.com
-- 🌐 still working on it ...
+- 🌐 https://flowcv.me/emmanuel-katchy
 
 <p>
 <Br>
