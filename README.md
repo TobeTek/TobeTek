@@ -20,7 +20,7 @@
 <p align='center'>
 
 - ✉️ katchyemma@gmail.com
-- 🌐 https://flowcv.me/emmanuel-katchy
+- 🖊 https://medium.com/@katchyemma
 
 <p>
 <Br>
