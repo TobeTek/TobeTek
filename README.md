@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<h1 align="center">I'm <a href="https://github.com/TobeTek">Tobe<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/TobeTek">Tobe<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
 - 💰 I'm a Freelancer.
 - 🔭 I’m currently working on many AI and ML projects.
 - 🧱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
-- 🤝 I’m open to work/help with anythin Python!
+- 🤝 I’m open to work/help with anything Python!
 - 💬 Ask me about Containerization & Virtualization, Data Warehousing and Analytics, System Design & Optimization, and Automation programs. 📡📈🤖🧠
 - ⚡  Fun fact: I play Chess, Tennis and the Piano! ♟️🎾🎹
   
