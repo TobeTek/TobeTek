@@ -14,7 +14,7 @@
 <br>
 
 <h1 align="center">Blog & Writing</h1>
-<p align="center">Apart from coding, I also maintain a blog - you can find my articles on <a href="https://medium.com/@katchyemma">Medium</a>. </p>
+Apart from coding, I also maintain a blog - you can find my articles on <a href="https://medium.com/@katchyemma">Medium</a>.
 
 <br>
 <br>
