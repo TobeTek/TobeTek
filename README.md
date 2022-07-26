@@ -1,41 +1,37 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+<p>
+  <img src="https://lottiefiles.com/download/public/73303-coding/gif" height="230" align="right"/>
 </p>
-<h1 align="center">I'm <a href="https://github.com/TobeTek">Tobe<a> 👋</h1>
-<Br>
-<h1>About Me! 😎</h1>
+<p align="left">
 
-- 💰 I'm a Freelancer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Tobe+%F0%9F%91%8B;I+am+a+programmer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+am+a+freelancer+%F0%9F%92%B8;I+am+a+content+creator+%F0%9F%93%9D;I+write+a+lot+of+code+%F0%9F%92%BB)](https://git.io/typing-svg)
+</p>
+
+
+<br>
+
+<h1 align="center">About Me! 😎</h1>
 - 🔭 I’m currently working on many AI and ML projects.
 - 🧱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
-- 🤝 I’m open to work/help with anything Python!
+- 🤝 I’m open to work/help with anything Python (other languages are welcome)!
 - 💬 Ask me about Containerization & Virtualization, Data Warehousing and Analytics, System Design & Optimization, and Automation programs. 📡📈🤖🧠
 - ⚡  Fun fact: I play Chess, Tennis and the Piano! ♟️🎾🎹
   
 
-<Br>
+<br>
 <h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<!-- Actual text -->
+<br>
+
 <p align='center'>
 
 - ✉️ katchyemma@gmail.com
 - 🖊 https://medium.com/@katchyemma
 
 <p>
-<Br>
-<hr>
-<Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
-  
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Developmment-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Database%20Management-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Application-Testing-blue?style=for-the-badge)|![](https://img.shields.io/badge/DB-Application%20Optimization-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-<!-- ##  Blog & Writing
+<br>
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
- -->
+<h1 align="center">Blog & Writing</h1>
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@katchyemma). 
+
 
 ## &#x270d; 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
@@ -49,31 +45,17 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
-<Br>
-<hr>
-<Br>
+<br>
 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/TobeTek/TobeTek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeTek&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/TobeTek/TobeTek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TobeTek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Emmanuel's GitHub Stats" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TobeTek&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeTek&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
-<a href="https://github.com/TobeTek/personal_pros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobeTek&repo=personal_pros&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/TobeTek/Zuri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobeTek&repo=Zuri&show_owner=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-  <Br>
-<hr>
-<Br>
 
-------
+
+
   
-<!--Thanks @ Arygam(https://github.com/Aryagm) -->
+<!--Thanks @ [Arygam(https://github.com/Aryagm), Lemonsaurus(https://github.com/lemonsaurus), Xithrius(https://github.com/Xithrius)]-->
 
