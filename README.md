@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on many AI and ML projects.
 - 🧱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
 - 🤝 I’m open to work/help with anything Python (other languages are welcome)!
-- 💬 Ask me about Containerization & Virtualization, Data Warehousing and Analytics, System Design & Optimization, and Automation programs. 📡📈🤖🧠
-- ⚡  Fun fact: I play Chess, Tennis and the Piano! ♟️🎾🎹
+- 💬 Ask me about Data Warehousing and Analytics, System Design & Optimization, and Automation programs. 📡📈🤖🧠
+- ⚡  Fun fact: I play Chess and the Piano! ♟️🎾🎹
   
 
 <br>
