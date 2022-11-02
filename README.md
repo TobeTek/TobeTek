@@ -25,9 +25,12 @@ Apart from coding, I also maintain a blog - you can find my articles on <a href=
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TobeTek&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeTek&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
+<br>
+<br>
 
+![https://kaggle.com/tobetek](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
+![https://medium.com/@katchyemma](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-  
 <!--Thanks @ [Arygam(https://github.com/Aryagm), Lemonsaurus(https://github.com/lemonsaurus), Xithrius(https://github.com/Xithrius)]-->
 
