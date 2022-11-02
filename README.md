@@ -28,9 +28,9 @@ Apart from coding, I also maintain a blog - you can find my articles on <a href=
 <br>
 <br>
 
-![https://kaggle.com/tobetek](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+[![https://kaggle.com/tobetek](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tobetek)
 
-![https://medium.com/@katchyemma](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![https://medium.com/@katchyemma](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@katchyemma)
 
 <!--Thanks @ [Arygam(https://github.com/Aryagm), Lemonsaurus(https://github.com/lemonsaurus), Xithrius(https://github.com/Xithrius)]-->
 
