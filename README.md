@@ -2,6 +2,7 @@
 <!-- <img align="right" src="https://github.com/TobeTek/TobeTek/blob/main/animation_500_l61hebl2.gif" width="400"/> -->
 
 <h1 align="center">About Me! 😎</h1>
+
 - 🔭 I’m currently learning about AI and working on many small ML projects.
 - 🧱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
 - 🤝 I’m open to work/help with anything Python (other languages are welcome)!
