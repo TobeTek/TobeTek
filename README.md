@@ -3,7 +3,8 @@
 
 <h1 align="center">About Me! 😎</h1>
 
-- 🔭 I’m currently working on many AI and ML projects.
+- 👔 Engineering Manager @[Bigcommand LLC](https://github.com/bigcommand/)
+- 🔭 I’m currently learning about AI and working on many small ML projects.
 - 🧱 I’m great with Django, Micro-Services and RESTFul APIs. 🧠💻🌐
 - 🤝 I’m open to work/help with anything Python (other languages are welcome)!
 - 💬 Ask me about Data Warehousing and Analytics, System Design & Optimization, and Automation programs. 📡📈🤖🧠
